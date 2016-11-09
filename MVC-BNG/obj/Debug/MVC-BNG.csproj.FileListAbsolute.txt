@@ -1,0 +1,148 @@
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\MVC-BNG.dll.config
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\MVC-BNG.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\MVC-BNG.pdb
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Antlr3.Runtime.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\EntityFramework.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\EntityFramework.SqlServer.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Newtonsoft.Json.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Owin.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Helpers.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Mvc.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Optimization.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Razor.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Razor.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\WebGrease.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Helpers.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Mvc.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Optimization.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.Razor.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Razor.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Newtonsoft.Json.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Antlr3.Runtime.pdb
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\EntityFramework.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\EntityFramework.SqlServer.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.Helpers.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.Mvc.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.Optimization.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.Razor.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\EntityFramework.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.csprojResolveAssemblyReference.cache
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.dll
+C:\Users\fmartinez.GRUPOQCI\Documents\Visual Studio 2013\Projects\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.pdb
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\MVC-BNG.dll.config
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\MVC-BNG.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\MVC-BNG.pdb
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Antlr3.Runtime.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\EntityFramework.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\EntityFramework.SqlServer.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Newtonsoft.Json.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Owin.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Helpers.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Mvc.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Optimization.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Razor.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Razor.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\WebGrease.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Helpers.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Mvc.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Optimization.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.Razor.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\System.Web.WebPages.Razor.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Newtonsoft.Json.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Antlr3.Runtime.pdb
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\EntityFramework.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\EntityFramework.SqlServer.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.Razor.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\EntityFramework.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\EntityFramework.SqlServer.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.Core.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.Owin.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.AspNet.Identity.EntityFramework.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Host.SystemWeb.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Facebook.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Google.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.Twitter.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\bin\es\Microsoft.Owin.Security.MicrosoftAccount.resources.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.csprojResolveAssemblyReference.cache
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.dll
+C:\Users\Progr\Desktop\MVC-BNG\MVC-BNG\obj\Debug\MVC-BNG.pdb
