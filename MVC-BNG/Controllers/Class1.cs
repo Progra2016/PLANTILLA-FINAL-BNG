@@ -13,4 +13,6 @@ namespace MVC_BNG.Controllers
     {
 
     }
+
+    public delegate void delegado();
 }
